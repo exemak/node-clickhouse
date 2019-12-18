@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apla/node-clickhouse.git"
+    "url": "git+https://github.com/exemak/node-clickhouse"
   },
   "keywords": [
     "clickhouse",
